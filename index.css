@@ -1,0 +1,31 @@
+body,ul,li,ol,dl,dd,input,form,a,span{
+	margin: 0;
+	padding:0;
+    
+}
+img{
+   border:none;
+}
+.plare{
+	width: 40%;
+	height: 115px;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin:auto;
+	background: #333;
+}
+.top{
+	width: 40%;
+	height: 400px;
+	background: #545353;
+	position: fixed;
+	bottom: 115px;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.top ul{
+    
+}
